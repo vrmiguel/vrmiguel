@@ -3,6 +3,7 @@
 
 
 - ✍️ I work with Python at [Letrus](https://www.letrus.com.br/), an UNESCO-award winning edtech trying to improve literacy in Brazil
+- 🌐 I work on the [Graph Protocol](https://thegraph.com/) under a Graph Grant, focusing on [`graph-node`](https://github.com/graphprotocol/graph-node)
 - 🦀 Rust is my favorite language
 - 📖 Currently learning Clojure and Elixir
 
