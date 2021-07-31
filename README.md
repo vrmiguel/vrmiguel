@@ -31,18 +31,24 @@
     </td>
   </tr>
 
+  <tr>
+    <td><a href="https://github.com/vrmiguel/bustd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=bustd&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
+    <td>
+        Userland process killer daemon to handle out-of-memory scenarios on Linux
+    </td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/vrmiguel/taruga"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=taruga&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
+    <td>
+        Taruga is a single-header, highly portable <a href="https://www.sfml-dev.org/">SFML</a>-based turtle graphics library, inspired by the Logo programming language. Through simple directives (go forward/backward, turn by an amount of degrees, etc.), Taruga is able to draw intricate shapes in an intuitive way.
+    </td>
+  </tr>
 
   <tr>
     <td><a href="https://github.com/vrmiguel/jacarex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=jacarex&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
         Jacarex is a command-line Regex playground (tester) REPL, including an optional integrated Regex introductory tutorial.
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/vrmiguel/taruga"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=taruga&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td>
-        Taruga is a single-header, highly portable <a href="https://www.sfml-dev.org/">SFML</a>-based turtle graphics library, inspired by the Logo programming language. Through simple directives (go forward/backward, turn by an amount of degrees, etc.), Taruga is able to draw intricate shapes in an intuitive way.
     </td>
   </tr>
 
