@@ -25,7 +25,7 @@
   </tr>
   
   <tr>
-    <td><a href="https://github.com/vrmiguel/ouch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=ouch&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
+    <td><a href="https://github.com/vrmiguel/ouch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouch-org&repo=ouch&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
         `ouch` is a small command-line utility for compressing and decompressing files easily!
     </td>
