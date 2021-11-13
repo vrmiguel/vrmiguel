@@ -44,8 +44,15 @@
     </td>
   </tr>
 
+   <tr>
+    <td><a href="https://github.com/vrmiguel/kindly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=kindly&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
+    <td>
+        A simple set-user-ID-root program, sort of like `sudo` 
+    </td>
+  </tr>
+  
   <tr>
-    <td><a href="https://github.com/vrmiguel/jacarex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=jacarex&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
+    <td><a href="https://github.com/vrmiguel/jacarex-old"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=jacarex-old&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
         Jacarex is a command-line Regex playground (tester) REPL, including an optional integrated Regex introductory tutorial.
     </td>
