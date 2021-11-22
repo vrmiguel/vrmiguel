@@ -15,13 +15,13 @@
   </tr>
 <tr> -->
 
-<table>
+<!-- <table>
   <tr>
     <td width=430px><a href="https://github.com/sm64pc/sm64ex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sm64pc&repo=sm64ex&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
       This project aims to create a nicer experience to the (informal/fan-made) Super Mario 64 PC Port with additional features such as <a href="https://github.com/vrmiguel/sm64-analog-camera">analog camera controls</a>, mouse look, a <a href="https://github.com/sm64pc/sm64ex/blob/nightly/enhancements/60fps_ex.patch">60 FPS mode</a> and much more.
     </td>
-  </tr>
+  </tr> -->
   
   <tr>
     <td><a href="https://github.com/vrmiguel/ouch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouch-org&repo=ouch&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
