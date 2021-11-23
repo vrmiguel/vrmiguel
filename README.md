@@ -7,13 +7,13 @@
 - 📖 Currently learning Clojure and Elixir
 
 <table>     
-<!--   <tr>
+  <tr>
     <td><a href="https://github.com/vrmiguel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrmiguel&layout=compact&langs_count=10&hide=css,m4,c,html,javascript&bg_color=90,5c252d,090300&title_color=fff&text_color=fff" width="1000"/></a></td>
     <td>
       Rust, C, C++ and Python are the languages I am most comfortable with.<br><br>I'm really interested in functional programming languages! <br>The ones I'm  learning right now are Haskell, Clojure and Elixir.<br><br>C was excluded from the list to the left.
     </td>
   </tr>
-<tr> -->
+<tr>
 
 <!-- <table>
   <tr>
