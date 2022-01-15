@@ -3,8 +3,8 @@
 
 - 🧑‍💼 Rust developer at [Terramagna](https://terramagna.com.br/)
 - 🦀 Rust is my favorite language
-- 🌐 I work on the [Graph Protocol](https://thegraph.com/) under a Graph Grant, focusing on [`graph-node`](https://github.com/graphprotocol/graph-node)
 - 📖 Currently learning Clojure and Elixir
+
 
 <table>     
   <tr>
