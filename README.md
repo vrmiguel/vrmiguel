@@ -15,14 +15,6 @@
     </td>
   </tr>
 <tr>
-
-<!-- <table>
-  <tr>
-    <td width=430px><a href="https://github.com/sm64pc/sm64ex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sm64pc&repo=sm64ex&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td>
-      This project aims to create a nicer experience to the (informal/fan-made) Super Mario 64 PC Port with additional features such as <a href="https://github.com/vrmiguel/sm64-analog-camera">analog camera controls</a>, mouse look, a <a href="https://github.com/sm64pc/sm64ex/blob/nightly/enhancements/60fps_ex.patch">60 FPS mode</a> and much more.
-    </td>
-  </tr> -->
   
   <tr>
     <td><a href="https://github.com/vrmiguel/ouch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouch-org&repo=ouch&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
@@ -35,6 +27,21 @@
     <td><a href="https://github.com/vrmiguel/bustd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=bustd&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
         Userland process killer daemon to handle out-of-memory scenarios on Linux
+    </td>
+  </tr>
+    
+  <tr>
+    <td><a href="https://github.com/vrmiguel/buztd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=buztd&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
+    <td>
+        Same as above but written in Zig since I want to learn the language. This version avoids making any heap allocations.
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><a href="https://github.com/vrmiguel/to-trash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=to-trash&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
+    <td>
+        a fast, small, and hopefully FreeDesktop-compliant file trasher for Linux
     </td>
   </tr>
   
@@ -55,7 +62,7 @@
    <tr>
     <td><a href="https://github.com/vrmiguel/kindly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=kindly&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
-        A simple set-user-ID-root program, sort of like `sudo` 
+        A simple set-user-ID-root program, sort of like `sudo`, for educational purposes only.
     </td>
   </tr>
   
@@ -80,25 +87,10 @@
     </td>
   </tr>
   
-
-  <tr>
-    <td><a href="https://github.com/carmesim/libstring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=carmesim&repo=libstring&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td>
-      libstring is a beginner-focused C library for string manipulation, highly portable and independent of <b>string.h</b>, used by students of the Federal University of São Paulo.
-    </td>
-  </tr>
-  
   <tr>
     <td><a href="https://github.com/carmesim/pulga"><img src="https://github-readme-stats.vercel.app/api/pin/?username=carmesim&repo=pulga&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
       Pulga is a command-line system information tool, similar to Neofetch and the like, but focused on being really fast. Pulga is currently on pause as its maintainers (@marcospb10 and me) are focusing on other projects.
     </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/vrmiguel/baleia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=baleia&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td>
-      Baleia is a C++11/Go Raspberry Pi information monitor with an accompanying Telegram bot for fetching telemetry data.
-    </td>
-  </tr>
+  </tr> 
 </table>
