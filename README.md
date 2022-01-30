@@ -33,7 +33,7 @@
   <tr>
     <td><a href="https://github.com/vrmiguel/buztd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=buztd&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
-        Same as above but written in Zig since I want to learn the language. This version avoids making any heap allocations.
+        Same as above but written in Zig since I wanted to test out the language. This version avoids making any heap allocations.
     </td>
   </tr>
 
