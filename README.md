@@ -1,8 +1,8 @@
 
 <h2 align="center"><img align="center" src="https://64.media.tumblr.com/c9ccc2e473906c84bb0327f152a4f859/tumblr_p5xbgx3Ypi1swlmkqo1_400.png" height="54px" />  Welcome!</h2>
 
-- 🦀 Rust developer at [Terramagna](https://terramagna.com.br/)
 - Previously
+    - Worked as a Rust and TypeScript developer at [Terramagna](https://terramagna.com.br/)
     - Worked on the [Graph Protocol](https://thegraph.com/) under a Graph Grant, focusing on [`graph-node`](https://github.com/graphprotocol/graph-node)
     - Worked with Python at [Letrus](https://www.letrus.com.br/), a UNESCO-award winning edtech trying to improve literacy in Brazil
 
@@ -15,6 +15,7 @@
         `ouch` is a small command-line utility for compressing and decompressing files easily!
     </td>
   </tr>
+  
 
   <tr>
     <td><a href="https://github.com/vrmiguel/bustd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=bustd&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
@@ -22,7 +23,14 @@
         Userland process killer daemon to handle out-of-memory scenarios on Linux
     </td>
   </tr>
-    
+  
+  <tr>
+    <td><a href="https://github.com/vrmiguel/ceceio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=ceceio&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
+    <td>
+        Embeddable tree-walk interpreter for a mostly lazy Lisp-like scripting language.
+    </td>
+  </tr>  
+     
   <tr>
     <td><a href="https://github.com/vrmiguel/buztd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=buztd&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
