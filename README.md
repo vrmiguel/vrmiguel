@@ -25,7 +25,7 @@
 
    <tr>
     <td><a href="https://github.com/vrmiguel/kindly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=kindly&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td><a href="https://github.com/vrmiguel/jacarex-old"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=jacarex-old&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
+    <td><a href="https://github.com/vrmiguel/jacarex-old"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmiguel&repo=jacarex-old&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark&description_lines_count=2" /></a></td>
   </tr>
 
   <tr>
